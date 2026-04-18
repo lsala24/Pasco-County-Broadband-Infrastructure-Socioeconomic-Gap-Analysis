@@ -5,6 +5,9 @@ This ArcGIS Dashboard provides a comprehensive geospatial analysis of the "Digit
 
 **Live Project Link:** [View the Interactive Dashboard](https://leospatial.maps.arcgis.com/apps/dashboards/70111911e3cc467d8ceec69fb26f2606)
 
+<img width="1897" height="861" alt="Screenshot 2026-04-18 134855" src="https://github.com/user-attachments/assets/45fb830e-8ed1-430e-b296-6e2701b04ef8" />
+
+
 ## Technical Highlights
 * **Arcade Integration:** Developed dynamic expressions to synchronize map symbology with label classes, ensuring data integrity across all zoom levels.
 * **Real-Time Analytics:** Configured dashboard indicators to calculate "Fiber Availability" and "Service Gaps" based on the current map extent.
